@@ -75,147 +75,131 @@ highlights:
     - title: 阿里云盘
       icon: /img/storegeico/favicon-www.alipan.com-2-64x64.png
       # details: 分享链接
-      link: /drivers/aliyundrive_open.md
+      link: /zh/guide/drivers/aliyundrive_open.md
     - title: 百度云盘
       icon: /img/storegeico/pan.baidu.com.png
       details: 
-      link: 
+      link: /zh/guide/drivers/baidu.md
     - title: 123网盘
       icon: /img/storegeico/www.123pan.com.ico
       # details: 云盘/分享/直链
-      link: 
+      link: /zh/guide/drivers/123.md
     - title: 夸克网盘
       icon: /img/storegeico/pan.quark.cn128.ico
       # details: TV 版
-      link: 
+      link: /zh/guide/drivers/quark.md
     - title: OneDrive
       icon: /img/storegeico/odbfavicon.ico
       # details: 国际版 世纪互联
-      link: /drivers/onedrive.md
+      link: /zh/guide/drivers/onedrive.md
     - title: GoogleDrive
       icon: /img/storegeico/drive.google.com32.png
       details: 
-      link: 
+      link: /zh/guide/drivers/googledrive.md
     - title: Mega
       icon: /img/storegeico/mega.nz.ico
       details: 
-      link: 
+      link: /zh/guide/drivers/mega.md
     - title: 115网盘
       icon: /img/storegeico/115.ico
       details: 
-      link: 
+      link: /zh/guide/drivers/115_open.md
     - title: 电信天翼云盘
       icon: /img/storegeico/favicon-cloud.dlife.cn.ico
       details: 
-      link: 
+      link: /zh/guide/drivers/189.md
     - title: 中国移动云盘
       icon: /img/storegeico/yun.139.com.png
       details: 
-      link: 
+      link: /zh/guide/drivers/139.md
     - title: 中国联通云盘
       icon: /img/storegeico/pan.wo.cn.ico
       details: 
-      link: 
+      link: /zh/guide/drivers/wopan.md
     - title: 四川电信魔盘
       icon: /img/storegeico/mopan.sc.189.cn.ico
       details: 
-      link: 
+      link: /zh/guide/drivers/mopan.md
     - title: 迅雷网盘
       icon: /img/storegeico/pan.xunlei.ico
       # details: X / 浏览器
-      link: 
+      link: /zh/guide/drivers/thunder.md
     - title: PikPak
       icon: /img/storegeico/pikpak.com.png
       # details: 分享链接
-      link: 
+      link: /zh/guide/drivers/pikpak.md
     - title: 谷歌相册
       icon: /img/storegeico/photos.google.com96.png
       details: 
-      link: 
+      link: /zh/guide/drivers/googlephotos.md
     - title: 一刻相册
       icon: /img/storegeico/photo.baidu.com.ico
       details: 
-      link: 
+      link: /zh/guide/drivers/baidu.photo.md
     - title: 蓝奏云
       icon: /img/storegeico/up.woozooo.com.ico
       # details: 蓝奏云优享版
-      link: 
+      link: /zh/guide/drivers/lanzou.md
     - title: UC网盘
       icon: /img/storegeico/drive.uc.cn.png
       # details: TV
-      link: 
+      link: /zh/guide/drivers/uc.md
     - title: Dropbox
       icon: /img/storegeico/dropbox.comfavicon32.ico
       details: 
-      link: 
+      link: /zh/guide/drivers/dropbox.md
     - title: 腾讯微云
       icon: /img/storegeico/www.weiyun.com.png
       details: 
-      link: 
+      link: /zh/guide/drivers/weiyun.md
     - title: TeraBox
       icon: /img/storegeico/www.terabox.ico
       details: 
-      link: 
+      link: /zh/guide/drivers/Terabox.md
     - title: Teambition
       icon: /img/storegeico/teambition.com.ico
       details: 
-      link: 
+      link: /zh/guide/drivers/teambition.md
     - title: 分秒帧
       icon: /img/storegeico/www.mediatrack.cn.ico
       details: 
-      link: 
+      link: /zh/guide/drivers/mediatrack.md
     - title: Yandex.Disk
       icon: /img/storegeico/360.yandex.com.png
       details: 
-      link: 
+      link: /zh/guide/drivers/yandex.md
     - title: 小飞机网盘
       icon: /img/storegeico/www.feejii.com.ico
       details: 
-      link: 
-    - title: 多吉云
-      icon: /img/storegeico/www.dogecloud.com.png
-      details: 
-      link: 
+      link: /zh/guide/drivers/feiji.md
     - title: 又拍云存储
       icon: /img/storegeico/www.upyun.com.png
       details: 
-      link: 
+      link: /zh/guide/drivers/uss.md
     - title: Trainbit
       icon: /img/storegeico/teambition.com.ico
       details: 
-      link: 
-    - title: UrlTree
-      icon: /img/storegeico/UrlTree-angular.iofavicon-144x144.png
-      details: 
-      link: 
-    - title: 腾讯智能创作平台
-      icon: /img/storegeico/v.tencent.com.png
-      details: 
-      link: 
+      link: /zh/guide/drivers/Trainbit.md
     - title: 超星星小组盘
       icon: /img/storegeico/v9.chaoxing.com.png
       details: 
-      link: 
+      link: /zh/guide/drivers/chaoxing.md
     - title: 曲奇云盘
       icon: /img/storegeico/quqi.com.ico
       details: 
-      link: 
-    - title: 网易云音乐云盘
-      icon: /img/storegeico/music.163.com.ico
-      details: 
-      link: 
+      link: /zh/guide/drivers/quqi.md
     - title: 6盘
       icon: /img/storegeico/www.6pan.vip.png
       details: 
-      link: 
-    - title: 联想家庭储存链接分享
-      icon: /img/storegeico/pc.lenovo.com.cn.png
+      link: /zh/guide/drivers/halalcloud.md
+    - title: 网易云音乐云盘
+      icon: /img/storegeico/music.163.com.ico
       details: 
-      link: 
+      link: /zh/guide/drivers/163music.md
     - title: GitHub
       icon: /img/storegeico/favicon-github.com-3-32x32.svg
       details: 
-      link: 
+      link: /zh/guide/drivers/github.md
 - header: 或是这些自建存储
   description: 
   image: /assets/image/ui.svg
@@ -225,39 +209,47 @@ highlights:
     - title: 本地存储
       icon: icon-park-outline:cloud-storage
       details: 
-      link: /drivers/local.md
+      link: /zh/guide/drivers/local.md
     - title: FTP/SFTP
       icon: hugeicons:internet
       details: 
-      link: 
+      link: /zh/guide/drivers/ftp.md
     - title: S3 对象存储
       icon: clarity:storage-solid-badged
       details: 
-      link: 
+      link: /zh/guide/drivers/s3.md
     - title: SMB
       icon: clarity:storage-solid
       details: 
-      link: 
+      link: /zh/guide/drivers/SMB.md
     - title: WebDAV
       icon: fluent-mdl2:internet-sharing
       details: 
-      link:
+      link: /zh/guide/drivers/webdav.md
     - title: IPFS
       icon: carbon:storage-request
       details: 
       link: 
+    - title: 联想家庭储存
+      icon: /img/storegeico/pc.lenovo.com.cn.png
+      details: 
+      link: /zh/guide/drivers/lenovonasshare.md
+    - title: 多吉云
+      icon: /img/storegeico/www.dogecloud.com.png
+      details: 
+      link: /zh/guide/drivers/s3.md#添加对象存储示例及官方文档
     - title: Seafile
-      icon: /img/storege/www.seafile.com.png
+      icon: /img/storegeico/www.seafile.com.png
       # details: 自建同步盘
-      link: 
+      link: /zh/guide/drivers/Seafile.md
     - title: Cloudreve
-      icon: /img/storege/cloudreve.org.ico
+      icon: /img/storegeico/cloudreve.org.ico
       # details: 自建备份盘
-      link: 
+      link: /zh/guide/drivers/cloudreve_v4.md
     - title: Misskey
-      icon: /img/storege/misskey-hub.net.svg
+      icon: /img/storegeico/misskey-hub.net.svg
       # details: 去中心化平台
-      link: 
+      link: /zh/guide/drivers/misskey.md
 - header: 我们还有这些功能
   description: 
   image: 
@@ -265,13 +257,17 @@ highlights:
   bgImageDark: /img/bg/9-dark.svg
   highlights:
     - title: 别名（alias）
-      icon: 
+      icon: iconfont icon-state
       details: 将不同网盘的文件合并展示
       link: 
-    - title: Crypt
-      icon: 
+    - title: 加密（Crypt）
+      icon: iconfont icon-state
       details: 云盘自动加解密
       link: 
+    - title: 地址树（UrlTree）
+      icon: iconfont icon-state
+      details: 挂载单个文件链接
+      link: /zh/guide/drivers/UrlTree.md
 
 copyright: AGPL-3.0 Licensed | Copyright © 2022-present The OpenList Team
 # footer: 
